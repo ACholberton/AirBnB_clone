@@ -30,6 +30,7 @@ button:hover {
     float: left;
     text-align: left;
     border-right: 1px solid #DDDDDD;
+    padding-right: 40px;
 }
 .amenities {
     height: 100%;
