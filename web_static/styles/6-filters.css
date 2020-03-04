@@ -41,20 +41,20 @@ button:hover {
 .h2 {
     font-size: 16px;
     margin: 0px;
-
+    color: black;
 }
 
 .h3 {
     font-weight: 600;
     margin: 15px 50px 3px;
-
+    color: black;
 }
 
 .h4 {
     font-weight: 400;
     font-size: 14px;
     margin: 0px 50px 0px;
-
+    color: black;
 }
 
 .li {
@@ -72,7 +72,7 @@ button:hover {
     border-radius: 4px;
     z-index: 1;
     position: relative;
-
+    color: black;
 }
 
 .locations:hover .popover {
