@@ -38,26 +38,26 @@ button:hover {
     text-align: left;
 }
 
-.h2 {
+h2 {
     font-size: 16px;
     margin: 0px;
     color: black;
 }
 
-.h3 {
+h3 {
     font-weight: 600;
     margin: 15px 50px 3px;
     color: black;
 }
 
-.h4 {
+h4 {
     font-weight: 400;
     font-size: 14px;
     margin: 0px 50px 0px;
     color: black;
 }
 
-.li {
+li {
     margin: 5px;
     list-style-type: none;
 }
