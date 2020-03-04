@@ -3,18 +3,20 @@
     justify-content: center;
     flex-wrap: wrap;
     align-items: center;
-    padding-bottom: 50px;
+    padding: 20px;
 }
 
 .places h1 {
+    width: 100%;
     text-align: left;
     font-size: 30px;
     flex-base: 100%;
 }
 
 .places h2 {
-    text-items: center;
+    text-align: center;
     font-size: 30px;
+    margin-top: 0;
 }
 
 .places article {
