@@ -1,7 +1,7 @@
 .places {
     display: flex;
     justify-content: center;
-    flex-flow: row wrap;
+    flex-flow: row;
     padding-bottom: 50px;
 }
 
