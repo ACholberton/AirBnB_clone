@@ -73,6 +73,7 @@ button:hover {
     z-index: 1;
     position: relative;
     color: black;
+    list-style-type: none;
 }
 
 .locations:hover .popover {
